@@ -1,0 +1,15 @@
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\KC2.csproj.AssemblyReference.cache
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\KC2.GeneratedMSBuildEditorConfig.editorconfig
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\KC2.AssemblyInfoInputs.cache
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\KC2.AssemblyInfo.cs
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\KC2.csproj.CoreCompileInputs.cache
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\bin\Debug\net7.0\KC2.exe
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\bin\Debug\net7.0\KC2.deps.json
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\bin\Debug\net7.0\KC2.runtimeconfig.json
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\bin\Debug\net7.0\KC2.dll
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\bin\Debug\net7.0\KC2.pdb
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\KC2.dll
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\refint\KC2.dll
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\KC2.pdb
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\KC2.genruntimeconfig.cache
+B:\Repos\code-Louisville-class-work\Knowledge Check 2\obj\Debug\net7.0\ref\KC2.dll
